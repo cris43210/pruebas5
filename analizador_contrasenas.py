@@ -1,1 +1,1 @@
-print("soy un analizador de contraseñas")
+UMBRAL = 5
