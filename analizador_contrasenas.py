@@ -1,1 +1,1 @@
-UMBRAL = 10
+UMBRAL = 8
